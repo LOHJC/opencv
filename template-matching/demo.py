@@ -5,6 +5,9 @@ import matplotlib.pyplot as plt
 IMG = "imgs/flock-of-fish.webp"
 IMG2 = "imgs/fish-pattern.png"
 
+# IMG = "imgs/flock-of-fish-2.webp"
+# IMG2 = "imgs/fish-pattern-2.png"
+
 
 if __name__ == "__main__":
     img = cv.imread(IMG)
