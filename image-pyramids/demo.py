@@ -2,8 +2,8 @@
 import cv2 as cv
 import matplotlib.pyplot as plt
 
-# IMG = "../imgs/old-joestar.webp"
-IMG = "../imgs/jojo_512.jpg"
+# IMG = "imgs/old-joestar.webp"
+IMG = "imgs/jojo_512.jpg"
 
 if __name__ == "__main__":
     img = cv.imread(IMG)
