@@ -1,5 +1,8 @@
 # features matching
 
+## objective
+- find the similar features between images
+
 ## features
 - scale invariant feature transform (SIFT)
     - 1 keypoint has a descriptor of 128 length
